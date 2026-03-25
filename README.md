@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Your Name]
 
 🎯 **[Your Role / Title]**  
 💻 Passionate about [your interests — e.g., Web Development, AI, Open Source]  
